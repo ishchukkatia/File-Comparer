@@ -3,7 +3,7 @@
 - docker
 - docker compose  
 
-#### В папці проекту (/KateTestFinal) з терміналу виконати наступну команду:
+#### В терміналі виконати наступну команду:
 ```
 docker compose up -d --build
 ```
